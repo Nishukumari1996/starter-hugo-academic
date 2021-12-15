@@ -36,19 +36,6 @@ experience:
         * Aircraft Performance. [Lecture Videos](https://docs.google.com/spreadsheets/d/1GF9zuYyKVXGzaKoV5Wqrcd9PTtAVyR0F/edit#gid=1458694770)
         * Aircraft Stability and Control. [Lecture Videos](https://docs.google.com/spreadsheets/d/1uGu29oBwKBpaWH42YdNj9bxoFhZ3Qj9V/edit#gid=287325547)
        
- - title: 'CEO'
-    company: 'GenCoin'
-    company_url: ''
-    location: 'California'
-    date_start: '2017-01-01'
-    date_end: ''
-    description: >-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying      
-
 design:
   columns: '2'
 ---
