@@ -37,14 +37,16 @@ Equations of motion, Longitudinal and Lateral-directional modes.[Video Lectures]
 
 [[experience]]
   title = "Research Assistant"
-  company = "Institute of Informatics, Ludwig Maximilian University of Munich (LMU)"
-  company_url = "https://www.ifi.lmu.de/"
-  location = "Germany"
-  date_start = "2019-07-01"
-  date_end = "2020-06-30"
+  company = "MITACS Globalink Research Internship Program 2019"
+  company_url = "https://www.mitacs.ca/en/programs/globalink/globalink-research-internship"
+  location = "Montreal, Canada"
+  date_start = "2019-06-01"
+  date_end = "2019-09-30"
   description = """
-  * **Advisor:** [Prof. Majid Zamani](https://sites.google.com/site/zamani1362/)
-  * **Research Topic:** Automated Synthesis of Cyber-Physical Systems: A Compositional Approach. 
+  * **Advisor:** [Prof. Rene Jr Landry, Department of Electrical Engineering, Ecole de Technologie Superieure](https://www.etsmtl.ca/en/research/professors/rlandry)
+  * Worked on autonomous landing for drones on a moving platform in GPS-denied environment.
+  * Performed hardware integration of Quadrotor, design, and implementation of Ground Mission System.
+  * Developed algorithms using classical and state-of-the-art Deep Learning and Reinforcement Learning techniques for image processing and navigation such as Hough Transform, OpenCV, TensorFlow for intelligent object detection for drone landing
   """
 
 [[experience]]
