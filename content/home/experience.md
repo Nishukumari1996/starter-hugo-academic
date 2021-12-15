@@ -1,5 +1,6 @@
 ---
 widget: experience
+active: false
 date_format: Jan 2006
 experience:
   - title: Assistant Professor
@@ -18,7 +19,7 @@ weight: 40
 title: Experience
 subtitle: null
 design:
-  columns: "2"
+  columns: "1"
 ---
 <!--StartFragment-->
 
