@@ -26,10 +26,14 @@ experience:
     company: 'Punjab State Aeronautical Engineering College'
     company_url: 'http://psaec.ac.in/'
     location: 'Patiala, Punjab, India'
-    date_start: '2016-02-08'
-    date_end: '2016-06-30'
-    description: 
-    * Helicopter Engineering:
+    date_start: '2021-02-08'
+    date_end: '2021-06-30'
+    description: >-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
 
 design:
   columns: '2'
