@@ -37,6 +37,10 @@ Was the main instructor for the following courses[](http://psaec.ac.in/)[](https
 
 <!--EndFragment-->
 
+
+
+
+
 <!--StartFragment-->
 
 #### Research Assistant
@@ -51,6 +55,10 @@ Advisors : [Prof. Rene Jr Landry](https://www.etsmtl.ca/en/research/professors/
 * Worked in the area of Feature extraction, navigation, implement and compare a variety of computer vision algorithms for target detection, installation of sensors (LiDAR and digital cameras) plus motion control algorithms to move around the perceived environment. [(Github Repository)](https://github.com/Lokesh97Bansal/Landing-Site-detection-for-Autonomous-landing-of-a-UAV-in-GPS-Denied-Environment-)
 
 <!--EndFragment-->
+
+
+
+
 
 <!--StartFragment-->
 
@@ -67,6 +75,10 @@ Advisor : [Prof. Shishir Kolathyan](https://shishirny.github.io/)
 
 <!--EndFragment-->
 
+
+
+
+
 <!--StartFragment-->
 
 #### Research Student
@@ -81,6 +93,10 @@ Advisor : [Prof. Sathish Vasu Kailas, IISc, Bangalore](https://mecheng.iisc.ac.
 * Worked with Computer-Aided Designing tools such as AutoCAD, Ansys etc. and learned to perform experiments on Tribometer, Raman Spectroscopy, Scanning Electron Microscope, etc.
 
 <!--EndFragment-->
+
+
+
+
 
 <!--StartFragment-->
 
