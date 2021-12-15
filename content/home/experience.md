@@ -25,6 +25,7 @@ date_format = "Jan 2006"
   date_start = "2021-02-01"
   date_end = "2021-06-30"
   description = """
+  Was the main instructor for the following courses
   * **Helicopter Dynamics:** Helicopter Configuration, Control Requirements, Momentum Theory, Blade Element Theory, Ideal Rotor Vs Optimum Rotor, Autorotation in Vertical Descent, Vertical Flight, Forward Flight, Introduction to Navigation Guidance and Control for Intelligent Fight.[Video Link](https://sites.google.com/site/zamani1362/)
   * **Research Topic:** Control of Multi-Agent Systems under Temporal Logic Specifications. 
   """
