@@ -47,74 +47,44 @@ Equations of motion, Longitudinal and Lateral-directional modes.[Video Lectures]
   * Worked on autonomous landing for drones on a moving platform in GPS-denied environment.
   * Performed hardware integration of Quadrotor, design, and implementation of Ground Mission System.
   * Developed algorithms using classical and state-of-the-art Deep Learning and Reinforcement Learning techniques for image processing and navigation such as Hough Transform, OpenCV, TensorFlow for intelligent object detection for drone landing
+  * [Github Repository](https://github.com/Lokesh97Bansal/Landing-Site-detection-for-Autonomous-landing-of-a-UAV-in-GPS-Denied-Environment-)
   """
 
 [[experience]]
-  title = "Project Team Leader"
-  company = "TUM International Graduate School of Science and Engineering (IGSSE)"
-  company_url = "http://www.igsse.gs.tum.de/index.php?id=5&L=1"
-  location = "Germany"
-  date_start = "2018-01-01"
-  date_end = "2020-06-30"
-  description = """
-  * **PI:** [Prof. Majid Zamani](https://sites.google.com/site/zamani1362/), **co-PI:** [Prof. Samarjit Chakraborty](https://cs.unc.edu/people/samarjit-chakraborty/), [Prof. Javier Esparza](https://www7.in.tum.de/~esparza/), [Prof. Jan Křetínský](https://www7.in.tum.de/~kretinsk/)
-  * **Project:** Platform-Aware Synthesis of Embedded Control Software."""
+  title = "Course Project"
+  company = "Foundation of Robotics, MTech, Robotics and Autonomous Systems, IISc, Bangalore"
+  company_url = "https://cps.iisc.ac.in/mtech-ras-curriculum/"
+  location = "Bangalore, India"
+  date_start = "2021-08-01"
+  date_end = "2021-12-30"
+  description = Quadrotor Path Planning using Artificial Potential Field Approach"""
+  * **Advisor:** [Prof. Shishir Kolathyan](https://shishirny.github.io/)
+  * Generated trajectory using Artificial Potential Field approach to follow a dynamic target and to avoid for static obstacles.
+  * Modelled 6-DOF model for Quadrotor with PD controller for trajectory tracking.
+"""
 
 [[experience]]
-  title = "Research Assistant"
-  company = "Department of Electrical and Computer Engineering, Technical University of Munich (TUM)"
-  company_url = "https://www.ei.tum.de/en/welcome/"
-  location = "Germany"
-  date_start = "2016-01-01"
-  date_end = "2019-06-01"
+  title = "Data Analyst"
+  company = "United Airlines Business Services Private Limited"
+  company_url = ""
+  location = "Gurugram, Haryana, India"
+  date_start = "2019-01-01"
+  date_end = "2019-06-14"
   description = """ 
-  * **Advisor:** [Prof. Majid Zamani](https://sites.google.com/site/zamani1362/)
-  * **Research Topic:** Automated Synthesis of Stochastic Control Systems."""
+  * Analyzed large set of Operations data for Airlines Industry, creating charts and visualizations.
+  * Generated insights based on different sets of data such as Delayed flight, Cabin functioning, etc.
+  * Gained experience in handling large volumes of data with expertise in Data extraction, Data Visualization, Exploratory Data Analysis, and skilled in various data analysis tools like Advanced Excel, SQL, programming in C, Python, etc."""
   
 [[experience]]
-  title = "Visiting Researcher"
-  company = "Department of Electrical and Systems Engineering, University of Pennsylvania"
-  company_url = "http://www.ese.upenn.edu/"
-  location = "USA"
-  date_start = "2019-02-01"
-  date_end = "2019-04-01"
-  description = """ 
-  * **Advisor:** [Prof. George J. Pappas](https://www.georgejpappas.org/)
-  * **Research Topic:** Temporal Logic Synthesis and Verification of Unknown Dynamical Systems."""
-
-[[experience]]
-  title = "Visiting Researcher"
-  company = "School of Computing, Newcastle University"
-  company_url = "https://www.ncl.ac.uk/computing/"
-  location = "UK"
-  date_start = "2018-06-01"
+  title = "Research Intern"
+  company = "Department of Mechanical Engineering, Indian Institute of Science, Bangalore"
+  company_url = "https://mecheng.iisc.ac.in/"
+  location = "Bangalore, India"
+  date_start = "2018-05-01"
   date_end = "2018-07-01"
-  description = """
-  * **Advisor:** [Prof. Sadegh Soudjani](http://homepages.cs.ncl.ac.uk/sadegh.soudjani/) 
-  * **Research Topic:** Formal Synthesis and Verification of Stochastic Systems via Barrier Functions."""
-
-[[experience]]
-  title = "Visiting Researcher"
-  company = "Laboratoire des Signaux et Systemes (L2S), CNRS"
-  company_url = "http://www.l2s.centralesupelec.fr/en"
-  location = "France"
-  date_start = "2017-03-01"
-  date_end = "2017-04-01"
-  description = """ 
-  * **Advisor:** [Antoine Girard](https://sites.google.com/site/antoinesgirard/home)
-  * **Research Topic:** Compositional Synthesis of controller for Interconnected Control Systems."""
-
-[[experience]]
-  title = "Senior Research Fellow"
-  company = "Center of Excellence in Complex and Nonlinear Dynamical Systems (CoE-CNDS), VJTI"
-  company_url = ""
-  location = "India"
-  date_start = "2014-09-01"
-  date_end = "2015-09-01"
-  description = """ 
-  * **PI:** Prof. Faruk Kazi, **co-PI** Prof. N. M. Singh 
-  * **Projects:**
-    1. Modelling, Simulation, and Motion Control of Autonomous Underwater Vehicle. (Collaboration: Larsen and Toubro Limited, India),
-    2. Passivity-based Control of Under-Actuated Nonlinear Dynamical Systems (Collaboration: CNRS, France),
-    3. Synchronization and Coordination Control of Nonlinear Heterogeneous Multi-Agent Systems (Collaboration: Indian Institute of Technology, Madras, India)."""  
+  description = Tribological behavior of Al6063 –Mild Steel tribo pair.""" 
+  * **Advisor:** [Satish Vasu Kailas, Tribology Lab, Indian Institute of Science, Bangalore, India](https://mecheng.iisc.ac.in/people/satish-v-kailas/)
+  * Investigated the effects of various rubbing conditions that results in various wear and lubrication aspects of Aluminium and Mild Steel tribo-pair.
+  * Worked with Computer-Aided Designing tools such as AutoCAD, Ansys etc. and learned to perform experiments on Tribometer, Raman Spectroscopy, Scanning Electron Microscope, etc."""
+  
 +++
