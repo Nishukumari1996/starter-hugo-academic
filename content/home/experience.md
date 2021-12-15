@@ -19,7 +19,7 @@ weight: 40
 title: Experience
 subtitle: null
 design:
-  columns: "1"
+  columns: "2"
 ---
 <!--StartFragment-->
 
