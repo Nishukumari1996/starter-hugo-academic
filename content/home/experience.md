@@ -57,8 +57,9 @@ Equations of motion, Longitudinal and Lateral-directional modes.[Video Lectures]
   location = "Bangalore, India"
   date_start = "2021-08-01"
   date_end = "2021-12-30"
-  description = Quadrotor Path Planning using Artificial Potential Field Approach"""
+  description = """
   * **Advisor:** [Prof. Shishir Kolathyan](https://shishirny.github.io/)
+  * Quadrotor Path Planning using Artificial Potential Field Approach
   * Generated trajectory using Artificial Potential Field approach to follow a dynamic target and to avoid for static obstacles.
   * Modelled 6-DOF model for Quadrotor with PD controller for trajectory tracking.
 """
@@ -82,8 +83,9 @@ Equations of motion, Longitudinal and Lateral-directional modes.[Video Lectures]
   location = "Bangalore, India"
   date_start = "2018-05-01"
   date_end = "2018-07-01"
-  description = Tribological behavior of Al6063 –Mild Steel tribo pair.""" 
+  description = """ 
   * **Advisor:** [Satish Vasu Kailas, Tribology Lab, Indian Institute of Science, Bangalore, India](https://mecheng.iisc.ac.in/people/satish-v-kailas/)
+  * Tribological behavior of Al6063 –Mild Steel tribo pair.
   * Investigated the effects of various rubbing conditions that results in various wear and lubrication aspects of Aluminium and Mild Steel tribo-pair.
   * Worked with Computer-Aided Designing tools such as AutoCAD, Ansys etc. and learned to perform experiments on Tribometer, Raman Spectroscopy, Scanning Electron Microscope, etc."""
   
