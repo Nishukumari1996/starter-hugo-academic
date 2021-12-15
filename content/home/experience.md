@@ -18,14 +18,14 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Postdoctoral Researcher"
-  company = "Division of Decision and Control Systems, KTH Royal Institute of Technology"
-  company_url = "https://www.kth.se/dcs/division-of-decision-and-control-systems-1.788078"
-  location = "Sweden"
-  date_start = "2020-07-01"
-  date_end = "2021-08-30"
+  title = "Assistant Professor"
+  company = "Punjab State Aeronautical Engineering"
+  company_url = "http://psaec.ac.in/"
+  location = "Patiala, Punjab, India"
+  date_start = "2021-02-01"
+  date_end = "2021-06-30"
   description = """
-  * **Advisor:** [Prof. Dimos Dimarogonas](https://sites.google.com/site/zamani1362/)
+  * **Helicopter Dynamics:** Helicopter Configuration, Control Requirements, Momentum Theory, Blade Element Theory, Ideal Rotor Vs Optimum Rotor, Autorotation in Vertical Descent, Vertical Flight, Forward Flight, Introduction to Navigation Guidance and Control for Intelligent Fight.[Video Link](https://sites.google.com/site/zamani1362/)
   * **Research Topic:** Control of Multi-Agent Systems under Temporal Logic Specifications. 
   """
 
