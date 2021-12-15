@@ -75,4 +75,3 @@ Currently I am pursuing [M.Tech. in Robotics and Autonomous Systems](https://cps
 
 Previously, I was an Assistant Professor at [Punjab State Aeronautical Engineering College](http://psaec.ac.in/), Patiala, Punjab, India. Prior to this, I have worked on Computer Vision and Deep Reinforcement Learning Based Automation project under [Prof. Rene Jr Landry](https://www.etsmtl.ca/en/research/professors/rlandry) at the [École de Technologie Supérieure](https://www.etsmtl.ca/), Montreal, Canada.
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
