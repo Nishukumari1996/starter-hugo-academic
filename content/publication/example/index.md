@@ -24,7 +24,6 @@ publication_types:
   - "0"
 authors:
   - admin
-  - Lokesh Bansal
   - Hamza Benzerouk
   - Rene Jr. Landry
 author_notes: []
