@@ -26,8 +26,13 @@ date_format = "Jan 2006"
   date_end = "2021-06-30"
   description = """
   Was the main instructor for the following courses
-  * **Helicopter Dynamics:** Helicopter Configuration, Control Requirements, Momentum Theory, Blade Element Theory, Ideal Rotor Vs Optimum Rotor, Autorotation in Vertical Descent, Vertical Flight, Forward Flight, Introduction to Navigation Guidance and Control for Intelligent Fight.[Video Link](https://sites.google.com/site/zamani1362/)
-  * **Research Topic:** Control of Multi-Agent Systems under Temporal Logic Specifications. 
+  * **Helicopter Dynamics:** Helicopter Configuration, Control Requirements, Momentum Theory, Blade Element Theory, Ideal Rotor Vs Optimum Rotor, Autorotation in Vertical Descent, Vertical Flight, Forward Flight, Introduction to Navigation Guidance and Control for Intelligent Fight.[Video Lectures](https://docs.google.com/spreadsheets/d/1AEPxIMOgEb1ugyfhm1m2em8rf6vkH-aT/edit#gid=1887361301)
+  * **Aircraft Structures:** Strength of Material, Truss, Thin-Walled Structures.[Video Lectures](https://docs.google.com/spreadsheets/d/1ZY95AMYS4pkHM7tr8uFe5Uq-Hl_-s4fF/edit#gid=1196452268)
+  * **Aircraft Performance:** Basics of Aerodynamics, Cruise, Climb & glide flight performance, Range &
+Endurance, Landing & Take-off Performance.[Video Lectures](https://docs.google.com/spreadsheets/d/1GF9zuYyKVXGzaKoV5Wqrcd9PTtAVyR0F/edit#gid=1458694770)
+  * **Aircraft Stability and Control:** Longitudinal and Lateral Stability and Control, Dynamic Stability: Euler angles,
+Equations of motion, Longitudinal and Lateral-directional modes.[Video Lectures](https://docs.google.com/spreadsheets/d/1uGu29oBwKBpaWH42YdNj9bxoFhZ3Qj9V/edit#gid=287325547)
+
   """
 
 [[experience]]
