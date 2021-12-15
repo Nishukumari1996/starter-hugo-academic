@@ -40,12 +40,10 @@ experience:
     location: Montreal, Canada
     date_start: 2019-06-08
     date_end: 2019-09-30
-    description: |2-
-        Advisors : [Prof. Rene Jr Landry](https://www.etsmtl.ca/en/research/professors/rlandry), [Department of Electrical Engineering](<>), [Ecole de Technologie Superieure](https://www.etsmtl.ca/)[](https://www.i3s.unice.fr/~precioso/)[](https://www.inria.fr/en)[](https://univ-cotedazur.eu/)
-
-        * Broadly work on developing robust machine learning systems for autonomous landing of drones.
-        * Worked in the area of Feature extraction, navigation, implement and compare a variety of computer vision algorithms for target detection, installation of sensors (LiDAR and digital cameras) plus motion control algorithms to move around the perceived environment. [(Github Repository)](https://github.com/Lokesh97Bansal/Landing-Site-detection-for-Autonomous-landing-of-a-UAV-in-GPS-Denied-Environment-)
-
+    description: Advisors : [Prof. Rene Jr Landry](https://www.etsmtl.ca/en/research/professors/rlandry), [Department of Electrical Engineering](<>), [Ecole de Technologie Superieure](https://www.etsmtl.ca/)[](https://www.i3s.unice.fr/~precioso/)[](https://www.inria.fr/en)[](https://univ-cotedazur.eu/)
+    
+design:
+  columns: '2'
 ---
 <!--StartFragment-->
 
