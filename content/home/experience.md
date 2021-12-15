@@ -29,7 +29,7 @@ experience:
     date_start: 2021-02-08
     date_end: 2021-06-30
     description: |2-
-      Was the main instructor for the following courses[](http://psaec.ac.in/)[](https://www.linkedin.com/in/ravichandrasv/)
+      Was the main instructor for the following courses
     * Helicopter Dynamics: Helicopter Configuration, Control Requirements, Momentum Theory, Blade Element Theory, Ideal Rotor Vs Optimum Rotor, Autorotation in Vertical Descent, Vertical Flight, Forward Flight, Introduction to Navigation Guidance and Control for Intelligent Fight.
     * Aircraft Performance: Basics of aerodynamics, Thrust & Power Required, Cruise, Climb & glide flight performance, Range & Endurance, V-n Diagram, High Lift Devices, Landing & Take off Performance.
     * Aircraft Stability and Control: Longitudinal and lateral stick fixed & free stability and control, Dynamic stability: Euler angles, Equations of motion, longitudinal modes; lateral-directional modes.
@@ -40,7 +40,7 @@ experience:
     location: Montreal, Canada
     date_start: 2019-06-08
     date_end: 2019-09-30
-    description: Advisors : [Prof. Rene Jr Landry](https://www.etsmtl.ca/en/research/professors/rlandry), [Department of Electrical Engineering](<>), [Ecole de Technologie Superieure](https://www.etsmtl.ca/)[](https://www.i3s.unice.fr/~precioso/)[](https://www.inria.fr/en)[](https://univ-cotedazur.eu/)
+    description: Advisors : 
     
 design:
   columns: '2'
