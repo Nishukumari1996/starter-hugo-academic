@@ -35,15 +35,19 @@ experience:
         * Aircraft Structures. [Lecture Videos](https://docs.google.com/spreadsheets/d/1ZY95AMYS4pkHM7tr8uFe5Uq-Hl_-s4fF/edit##gid=1196452268)
         * Aircraft Performance. [Lecture Videos](https://docs.google.com/spreadsheets/d/1GF9zuYyKVXGzaKoV5Wqrcd9PTtAVyR0F/edit#gid=1458694770)
         * Aircraft Stability and Control. [Lecture Videos](https://docs.google.com/spreadsheets/d/1uGu29oBwKBpaWH42YdNj9bxoFhZ3Qj9V/edit#gid=287325547)
- - title: 'Assistant Professor'
-    company: 'Punjab State Aeronautical Engineering College'
-    company_url: 'http://psaec.ac.in/'
-    location: 'Patiala, Punjab, India'
-    date_start: '2021-02-08'
-    date_end: '2021-06-30'
+       
+ - title: 'CEO'
+    company: 'GenCoin'
+    company_url: ''
+    location: 'California'
+    date_start: '2017-01-01'
+    date_end: ''
     description: >-
-        Was the main instructor for the following courses:
-      
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying      
 
 design:
   columns: '2'
