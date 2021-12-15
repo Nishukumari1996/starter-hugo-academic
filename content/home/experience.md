@@ -29,9 +29,9 @@ experience:
     date_start: '2021-02-08'
     date_end: '2021-06-30'
     description: >-
-        Responsibilities include:
+        Was the main instructor for the following courses:
         
-        * Analysing
+        * Helicopter Enginerring. [Lecture Videos](https://docs.google.com/spreadsheets/d/1AEPxIMOgEb1ugyfhm1m2em8rf6vkH-aT/edit##gid=1887361301) 
         * Modelling
         * Deploying
 
