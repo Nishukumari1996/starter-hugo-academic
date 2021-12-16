@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://www.mitacs.ca/en/programs/globalink/globalink-research-internship"
   location = "Montreal, Canada"
   date_start = "2019-06-01"
-  date_end = ""
+  
   description = """
   Awardee of MITACS Globalink Research Internship Program 2019. Funded by MITACS, Canada and Ministry of Human Resource Development, India, a highly competitive initiative
 that selects interns from Mitacs partner countries to go to Canada for 12 weeks to undertake research projects at Canadian universities
@@ -36,7 +36,7 @@ that selects interns from Mitacs partner countries to go to Canada for 12 weeks 
   company_url = "http://gate.iitd.ac.in/"
   location = "India"
   date_start = "2021-02-01"
-  date_end = ""
+  
   description = """
   Secured All India Rank 53 in Graduate Aptitude Test in Engineering (GATE) in Aerospace Engineering 2021
 """
@@ -47,7 +47,7 @@ that selects interns from Mitacs partner countries to go to Canada for 12 weeks 
   company_url = "https://pec.ac.in/"
   location = "Chandigarh, India"
   date_start = "2020-05-01"
-  date_end = ""
+  
   description = """ 
   Honoured by Institute Color at Punjab Engineering College, Chandigarh Institute’s highest honour in recognition of exemplary achievements and contribution in various cultural
 activities working as the Chief Editor of Hindi Editorial Board at Punjab Engineering College, Chandigarh."""
