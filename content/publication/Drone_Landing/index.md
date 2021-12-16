@@ -1,5 +1,5 @@
 +++
-title = "Path Planning for Quadrotor using Artificial Potential Field Approach to follow Dynamic Target and avoid Static Obstacles"
+title = "Intelligent Algorithms for UAV Automatic Landing on-board a Moving Platform"
 date = 2021-12-12T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
