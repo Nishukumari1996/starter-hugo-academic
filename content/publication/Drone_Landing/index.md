@@ -3,7 +3,7 @@ title = "Path Planning for Quadrotor using Artificial Potential Field Approach t
 date = 2021-12-12T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["admin", "Sangeet M", "Vaishnav K V"]
+authors = ["admin", "Hamza Benzerouk", "Rene Jr. Landry"]
 
 # Publication type.
 # Legend:
@@ -21,7 +21,7 @@ publication = ""
 publication_short = ""
 
 # Abstract.
-abstract = "The potential field algorithm which was introduced by Khatib in the 1980s is well-known in path planning for robots. The algorithm is very simple yet provides real-time path planning and is effective to avoid robot’s collision with obstacles and hence it is a reactive path planning algorithm. It can provide the path in a changing environment. The purpose of the paper is to implement an artificial potential path planner in V-REP.VREP is a 3D robot simulation software with an integrated development environment that allows us to model, edit, program, and simulate any robot or robotic system. We have used MATLAB to do the computational aspects for path planning and VREP is used as a visualization platform. In addition to this, we have applied this algorithm to a six DOF drone whose modeling is done in MATLAB. The simulation result we got indicates the fact that the artificial potential field algorithm is a good choice if we used it as a local planner than a global planner. In many cases, the robot got trapped in local minima, which prevents the robot from reaching the target position. Hence It can be concluded that the artificial potential field algorithm needs to be modified to pass all of the local minima problems."
+abstract = "To develop a fully autonomous UAV it is important that it can detect the environmental conditions, so that autonomous Navigation and Guidance can be achieved. Detection of environment can be done using various techniques and broadly can be categorized in two divisions, one is in Radio Frequency environment and another is in Radio Frequency denied environment. In RF environments detection can be done using radio waves based tools such as GPS and Radiolink between the platform and the UAV, however, in RF denied environments, such techniques cannot be used and this work presents a survey of methods using in image and signal processing, carrying out an intelligent approach based on Artificial intelligence and machine learning. Such techniques would be very robust and can work in any kind of environmental and geographical situations. There are many application fields of UAV where radio waves are not available such as in jammed environment, uncovered areas, landing applications in marine environments, surveillance in remote locations etc."
 
 # Summary. An optional shortened abstract.
 summary = ""
@@ -34,7 +34,7 @@ featured = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Path Planning", "Quadrotor", "Drone", "Autonomous Vehicle", "Navigation", "Control", "Robotics"]
+tags = ["Path Planning", "Quadrotor", "Drone", "Autonomous Vehicle", "Navigation", "Reinforcement Learning", "Deep Learning", "Control", "Robotics"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -54,10 +54,10 @@ tags = ["Path Planning", "Quadrotor", "Drone", "Autonomous Vehicle", "Navigation
 
 # Links (optional).
 url_pdf = "./publication/Drone_Landing/Report.pdf"
-url_code = "https://github.com/Lokesh97Bansal/Quadrotor-Path-Planning-using-Artificial-Potential-Field-Approach"
+url_code = "https://github.com/Lokesh97Bansal/Landing-Site-detection-for-Autonomous-landing-of-a-UAV-in-GPS-Denied-Environment-"
 url_project = ""
-url_slides = "https://docs.google.com/presentation/d/1gVIwcpX0KFbP23HqumMLj3kiVf4S2AD0/edit?rtpof=true"
-url_video = "https://drive.google.com/file/d/1XNkaBVSD_oHz6M5SHLeO3bPjL-F3dKrZ/view?usp=sharing"
+url_slides = "https://docs.google.com/presentation/d/1i56xnUO3KOfKgh2Mq70k5ESNspmtZK08/edit?usp=sharing&ouid=108942355386080405989&rtpof=true&sd=true"
+url_video = "https://drive.google.com/file/d/1uG2Ab4QndnufGo5nHyfvr1kxRA4nA-y2/view?usp=sharing"
 
 # Custom links (optional).
 # For multiple links, use the form `[{...}, {...}, {...}]`.
