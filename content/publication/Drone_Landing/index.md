@@ -61,7 +61,7 @@ url_video = "https://drive.google.com/file/d/1uG2Ab4QndnufGo5nHyfvr1kxRA4nA-y2/v
 
 # Custom links (optional).
 # For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Poster (earlier version)", url = "Poster.pdf"}]
+links = [{name = "Poster (earlier version)", url = "./publication/Drone_Landing/Poster.pdf"}]
 # ,{name = "Poster (earlier version)", url = ""}]
 
 # Does this page contain LaTeX math? (true/false)
