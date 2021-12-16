@@ -20,36 +20,36 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
+email: lokeshbansal@iisc.ac.in
 phone: +91-9079425698
 address:
-  street: Hostel A Block, Indian Institute of Science
+  street: Robert Bosch Center for Cyber Physical Systems, Indian Institute of Science - Bangalore
   city: Bangalore
-  region: 
+  region: KA
   postcode: '560012'
-  country: INDIA
-  country_code: INDIA
+  country: India
+  country_code: IN
 coordinates:
-  latitude: '12.971599'
-  longitude: '77.594566'
+  latitude: '13.0139448969015'
+  longitude: '77.57022496667841'
 directions: 
 office_hours:
   - ''
   - ''
 appointment_url: ''
 contact_links:
-  - icon: skype
+  - icon: linkedin
     icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
+    name: LinkedIn
+    link: 'https://www.linkedin.com/in/lokesh97bansal/'
+  - icon: facebook
     icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
+    name: Facebook
+    link: 'https://www.facebook.com/lokesh.bansal.714/'
+  - icon: whatsapp
     icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    name: Whatsapp
+    link: 'https://wa.me/+919079425698'
 
 # Site header
 
