@@ -1,73 +1,84 @@
----
-abstract: |-
-  To develop a fully autonomous UAV it is important
-  that it can detect the environmental conditions, so that
-  autonomous Navigation and Guidance can be achieved. Detection
-  of environment can be done using various techniques and
-  broadly can be categorized in two divisions, one is in Radio
-  Frequency environment and another is in Radio Frequency
-  denied environment. In RF environments detection can be done
-  using radio waves based tools such as GPS and Radiolink between
-  the platform and the UAV, however, in RF denied environments,
-  such techniques cannot be used and this work presents a survey
-  of methods using in image and signal processing, carrying out an
-  intelligent approach based on Artificial intelligence and machine
-  learning. Such techniques would be very robust and can work in
-  any kind of environmental and geographical situations. There
-  are many application fields of UAV where radio waves are
-  not available such as in jammed environment, uncovered areas,
-  landing applications in marine environments, surveillance in
-  remote locations etc.
-slides: ""
-url_pdf: ""
-publication_types:
-  - "0"
-authors:
-  - admin
-  - Hamza Benzerouk
-  - Rene Jr. Landry
-author_notes: []
-publication: In International Conference on Artificial Intelligence and Signal Processing
-summary: >-
-  To develop a fully autonomous UAV it is important
++++
+title = "DSLR : Dynamic to Static LiDAR scan Reconstruction using adversarially trained autoencoder"
+date = 2021-02-02T00:00:00
 
-  that it can detect the environmental conditions, so that
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["Prashant Kumar", "admin", "Vanshil Shah", "Vineetha Kondameedi", "Abhinav Jain", "Akshaj Verma", "Chiranjib Bhattacharyya", "Vinay V"]
 
-  autonomous Navigation and Guidance can be achieved. This work presents a survey
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference paper
+# 2 = Journal article
+# 3 = Manuscript
+# 4 = Report
+# 5 = Book
+# 6 = Book section
+publication_types = ["1"]
 
-  of methods using in image and signal processing, carrying out an
+# Publication name and optional abbreviated version.
+publication = "AAAI 2021"
+publication_short = ""
 
-  intelligent approach based on Artificial intelligence and machine
+# Abstract.
+abstract = "Accurate reconstruction of static environments from LiDAR scans of scenes containing dynamic objects, which we refer to as Dynamic to Static Translation (DST), is an important area of research in Autonomous Navigation. This problem has been recently explored for visual SLAM, but to the best of our knowledge no work has been attempted to address DST for LiDAR scans. The problem is of critical importance due to wide-spread adoption of LiDAR in Autonomous Vehicles. We show that state-of the art methods developed for the visual domain when adapted for LiDAR scans perform poorly. We develop DSLR, a deep generative model which learns a mapping between dynamic scan to its static counterpart through an adversarially trained autoencoder. Our model yields the first solution for DST on LiDAR that generates static scans without using explicit segmentation labels. DSLR cannot always be applied to real world data due to lack of paired dynamic-static scans. Using Unsupervised Domain Adaptation, we propose DSLR-UDA for transfer to real world data and experimentally show that this performs well in real world settings. Additionally, if segmentation information is available, we extend DSLR to DSLR-Seg to further improve the reconstruction quality. DSLR gives the state of the art performance on simulated and real-world datasets and also shows at least 4x improvement. We show that DSLR, unlike the existing baselines, is a practically viable model with its reconstruction quality within the tolerable limits for tasks pertaining to autonomous navigation like SLAM in dynamic environments."
 
-  learning. Such techniques would be very robust and can work in
+# Summary. An optional shortened abstract.
+summary = ""
 
-  any kind of environmental and geographical situations. There
+# Digital Object Identifier (DOI)
+# doi = "10.1038/s41598-020-61289-4"
 
-  are many application fields of UAV where radio waves are
+# Is this a featured publication? (true/false)
+featured = true
 
-  not available such as in jammed environment, uncovered areas,
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = ["Deep Learning", "Computer Vision", "Generative Modelling", "3D/LiDAR", "Robotics", "SLAM", "Domain Adaptation", "Segmentation", "Ati"]
 
-  landing applications in marine environments, surveillance in
+# Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["deep-learning"]` references
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+# projects = []
 
-  remote locations etc.
-url_dataset: ""
-url_project: ""
-publication_short: ""
-url_source: ""
-url_video: ""
-title: INTELLIGENT ALGORITHMS FOR UAV AUTOMATIC LANDING ON-BOARD A MOVING PLATFORM
-doi: ""
-featured: true
-tags: []
-projects: []
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-  filename: featured.png
-date: 2021-12-15T21:46:18.779Z
-url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
-url_poster: ""
-url_code: ""
----
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references
+#   `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+# slides = "example-slides"
+
+# Links (optional).
+url_pdf = "./publication/dslr/DSLR_paper.pdf"
+url_preprint = "https://arxiv.org/abs/2105.12774"
+url_code = "https://github.com/dslrproject/dslr/"
+url_dataset = "https://github.com/dslrproject/dslr/tree/master/Data"
+url_project = "https://dslrproject.github.io/dslr/"
+url_slides = "https://docs.google.com/presentation/d/1N-szoZH-U69XdS0JrnPoKTwRqe24sHQWyYdimfxPwNo/edit?usp=sharing"
+url_video = "https://www.youtube.com/watch?v=Mi8DNw6F5Mk&t=1s&ab_channel=PRASHANTKUMARPRASHANTKUMAR"
+url_poster = "DSLR_poster.pdf"
+url_source = ""
+
+# Custom links (optional).
+# For multiple links, use the form `[{...}, {...}, {...}]`.
+links = [{name = "Appendix PDF", url = "./publication/dslr/DSLR_appendix.pdf"}, {name="AAAI Conference", url="https://ojs.aaai.org/index.php/AAAI/article/view/16278"}, {name="Results Video", url="https://www.youtube.com/watch?v=xj_JA_Xk-xM&ab_channel=SabyasachiSahoo"}, {name="Teaser Video", url="https://www.youtube.com/watch?v=hHgiC0m5ee0&t=1s"}, {name="Twitter Thread", url="https://twitter.com/saby_tweets/status/1354064595665571840"}]
+# ,{name = "Poster (earlier version)", url = "PosterA0.pdf"}]
+
+# Does this page contain LaTeX math? (true/false)
+math = false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+[image]
+  # Caption (optional)
+  # caption = "Image credit: **Juan David Leongómez 2020**"
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "BottomLeft"
+
++++
