@@ -32,10 +32,10 @@ address:
 coordinates:
   latitude: '13.0139448969015'
   longitude: '77.57022496667841'
-directions: 
+directions: Come to SID Building inside IISc, take the stairs to 3rd floor to RBCCPS center.
 office_hours:
-  - ''
-  - ''
+  - 'Monday-Friday 10:00 to 18:00'
+  - 'Saturday-Sunday 12:00 to 17:00'
 appointment_url: ''
 contact_links:
   - icon: linkedin
@@ -47,7 +47,7 @@ contact_links:
     name: Facebook
     link: 'https://www.facebook.com/lokesh.bansal.714/'
   - icon: whatsapp
-    icon_pack: fas
+    icon_pack: fab
     name: Whatsapp
     link: 'https://wa.me/+919079425698'
 
