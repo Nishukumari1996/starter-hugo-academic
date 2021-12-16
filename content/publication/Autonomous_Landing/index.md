@@ -57,7 +57,7 @@ url_pdf = "./publication/Autonomous_Landing/Report.pdf"
 url_code = "https://github.com/Lokesh97Bansal/Quadrotor-Path-Planning-using-Artificial-Potential-Field-Approach"
 url_project = ""
 url_slides = "https://docs.google.com/presentation/d/1gVIwcpX0KFbP23HqumMLj3kiVf4S2AD0/edit?rtpof=true"
-url_video = "https://drive.google.com/drive/u/0/folders/14dWbmIIKlL6POOmhKN6TG0u9ks2ORhYU"
+url_video = "https://drive.google.com/file/d/1XNkaBVSD_oHz6M5SHLeO3bPjL-F3dKrZ/view?usp=sharing"
 
 # Custom links (optional).
 # For multiple links, use the form `[{...}, {...}, {...}]`.
