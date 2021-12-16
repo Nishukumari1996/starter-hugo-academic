@@ -16,7 +16,7 @@ main:
   - name: Awards and Recognition
     url: '#Awards'
     weight: 40
-  - name: Publications
+  - name: Research Work
     url: '#featured'
     weight: 50
   - name: Contact
