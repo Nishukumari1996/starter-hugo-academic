@@ -53,7 +53,7 @@ tags = ["Path Planning", "Quadrotor", "Drone", "Autonomous Vehicle", "Navigation
 # slides = "example-slides"
 
 # Links (optional).
-url_pdf = "./publication/Autonomous_Landing/Report.pdf"
+url_pdf = "./publication/Drone_Landing/Report.pdf"
 url_code = "https://github.com/Lokesh97Bansal/Quadrotor-Path-Planning-using-Artificial-Potential-Field-Approach"
 url_project = ""
 url_slides = "https://docs.google.com/presentation/d/1gVIwcpX0KFbP23HqumMLj3kiVf4S2AD0/edit?rtpof=true"
