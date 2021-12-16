@@ -1,9 +1,9 @@
 +++
-title = "DSLR : Dynamic to Static LiDAR scan Reconstruction using adversarially trained autoencoder"
-date = 2021-02-02T00:00:00
+title = "Path Planning for Quadrotor using Artificial Potential Field Approach to follow Dynamic Target and avoid Static Obstacles"
+date = 2021-12-12T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Prashant Kumar", "admin", "Vanshil Shah", "Vineetha Kondameedi", "Abhinav Jain", "Akshaj Verma", "Chiranjib Bhattacharyya", "Vinay V"]
+authors = ["admin", "Sangeet M", "Vaishnav K V"]
 
 # Publication type.
 # Legend:
@@ -17,24 +17,24 @@ authors = ["Prashant Kumar", "admin", "Vanshil Shah", "Vineetha Kondameedi", "Ab
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "AAAI 2021"
+publication = ""
 publication_short = ""
 
 # Abstract.
-abstract = "Accurate reconstruction of static environments from LiDAR scans of scenes containing dynamic objects, which we refer to as Dynamic to Static Translation (DST), is an important area of research in Autonomous Navigation. This problem has been recently explored for visual SLAM, but to the best of our knowledge no work has been attempted to address DST for LiDAR scans. The problem is of critical importance due to wide-spread adoption of LiDAR in Autonomous Vehicles. We show that state-of the art methods developed for the visual domain when adapted for LiDAR scans perform poorly. We develop DSLR, a deep generative model which learns a mapping between dynamic scan to its static counterpart through an adversarially trained autoencoder. Our model yields the first solution for DST on LiDAR that generates static scans without using explicit segmentation labels. DSLR cannot always be applied to real world data due to lack of paired dynamic-static scans. Using Unsupervised Domain Adaptation, we propose DSLR-UDA for transfer to real world data and experimentally show that this performs well in real world settings. Additionally, if segmentation information is available, we extend DSLR to DSLR-Seg to further improve the reconstruction quality. DSLR gives the state of the art performance on simulated and real-world datasets and also shows at least 4x improvement. We show that DSLR, unlike the existing baselines, is a practically viable model with its reconstruction quality within the tolerable limits for tasks pertaining to autonomous navigation like SLAM in dynamic environments."
+abstract = "The potential field algorithm which was introduced by Khatib in the 1980s is well-known in path planning for robots. The algorithm is very simple yet provides real-time path planning and is effective to avoid robot’s collision with obstacles and hence it is a reactive path planning algorithm. It can provide the path in a changing environment. The purpose of the paper is to implement an artificial potential path planner in V-REP.VREP is a 3D robot simulation software with an integrated development environment that allows us to model, edit, program, and simulate any robot or robotic system. We have used MATLAB to do the computational aspects for path planning and VREP is used as a visualization platform. In addition to this, we have applied this algorithm to a six DOF drone whose modeling is done in MATLAB. The simulation result we got indicates the fact that the artificial potential field algorithm is a good choice if we used it as a local planner than a global planner. In many cases, the robot got trapped in local minima, which prevents the robot from reaching the target position. Hence It can be concluded that the artificial potential field algorithm needs to be modified to pass all of the local minima problems."
 
 # Summary. An optional shortened abstract.
 summary = ""
 
 # Digital Object Identifier (DOI)
-# doi = "10.1038/s41598-020-61289-4"
+# doi = ""
 
 # Is this a featured publication? (true/false)
 featured = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Deep Learning", "Computer Vision", "Generative Modelling", "3D/LiDAR", "Robotics", "SLAM", "Domain Adaptation", "Segmentation", "Ati"]
+tags = ["Path Planning", "Quadrotor", "Drone", "Autonomous Vehicle", "Navigation", "Control", "Robotics"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -53,20 +53,16 @@ tags = ["Deep Learning", "Computer Vision", "Generative Modelling", "3D/LiDAR", 
 # slides = "example-slides"
 
 # Links (optional).
-url_pdf = "./publication/dslr/DSLR_paper.pdf"
-url_preprint = "https://arxiv.org/abs/2105.12774"
-url_code = "https://github.com/dslrproject/dslr/"
-url_dataset = "https://github.com/dslrproject/dslr/tree/master/Data"
-url_project = "https://dslrproject.github.io/dslr/"
-url_slides = "https://docs.google.com/presentation/d/1N-szoZH-U69XdS0JrnPoKTwRqe24sHQWyYdimfxPwNo/edit?usp=sharing"
-url_video = "https://www.youtube.com/watch?v=Mi8DNw6F5Mk&t=1s&ab_channel=PRASHANTKUMARPRASHANTKUMAR"
-url_poster = "DSLR_poster.pdf"
-url_source = ""
+url_pdf = "./publication/Autonomous_Landing/Report.pdf"
+url_code = "https://github.com/Lokesh97Bansal/Quadrotor-Path-Planning-using-Artificial-Potential-Field-Approach"
+url_project = ""
+url_slides = "https://docs.google.com/presentation/d/1gVIwcpX0KFbP23HqumMLj3kiVf4S2AD0/edit?rtpof=true"
+url_video = "https://drive.google.com/file/d/1XNkaBVSD_oHz6M5SHLeO3bPjL-F3dKrZ/view?usp=sharing"
 
 # Custom links (optional).
 # For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Appendix PDF", url = "./publication/dslr/DSLR_appendix.pdf"}, {name="AAAI Conference", url="https://ojs.aaai.org/index.php/AAAI/article/view/16278"}, {name="Results Video", url="https://www.youtube.com/watch?v=xj_JA_Xk-xM&ab_channel=SabyasachiSahoo"}, {name="Teaser Video", url="https://www.youtube.com/watch?v=hHgiC0m5ee0&t=1s"}, {name="Twitter Thread", url="https://twitter.com/saby_tweets/status/1354064595665571840"}]
-# ,{name = "Poster (earlier version)", url = "PosterA0.pdf"}]
+links = []
+# ,{name = "Poster (earlier version)", url = ""}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false
