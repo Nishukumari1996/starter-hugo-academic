@@ -27,8 +27,6 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: DL
-    tag: Deep Learning
   - name: CV
     tag: Computer Vision
   - name: Drone
